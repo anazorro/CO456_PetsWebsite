@@ -348,6 +348,7 @@
     <Content Include="Images\syrian-hamsters-for-sale-53301572705b9.jpg" />
     <Content Include="Images\S_7389378167815.jpg" />
     <Content Include="Images\Teacup-Pug.jpg" />
+    <Content Include="Images\the 1 pets.jpg" />
     <Content Include="Images\the-behaviour-of-pet-fish-decoded-52837034037d3.jpg" />
     <Content Include="Images\top-dog-names-730x250.jpg" />
     <Content Include="Images\Two-Persian-kittens-e1454585719448.jpg" />
@@ -363,6 +364,7 @@
     <Content Include="Images\_97946939_gettyimages-651963688.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\myScripts.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.js" />
