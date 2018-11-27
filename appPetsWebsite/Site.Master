@@ -76,5 +76,6 @@
         </div>
 
     </form>
+    <script src="Scripts/myScripts.js"></script>
 </body>
 </html>
