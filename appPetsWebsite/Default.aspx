@@ -11,25 +11,46 @@
     <section id="carousel-example-generic" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
         <ol class="carousel-indicators">
-            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active img-responsive"></li>
             <li data-target="#carousel-example-generic" data-slide-to="1"></li>
             <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="4"></li>
         </ol>
-
+        
+     
         <!-- Wrapper for slides -->
         <section class="carousel-inner" role="listbox">
             <figure class="item active">
-                <img src="Images/the 1 pets.jpg" alt="Picture of a dog" tittle="Picture of a dog">
-                <figcapture class="carousel-caption">
+                <img src="Images/the 1 pets.jpg" alt="Picture of a dog" title="Picture of a dog" />
+                <figcaption class="carousel-caption">
                     Picture of a dog
-                </figcapture>
+                </figcaption>
             </figure>
-            <div class="item">
-                <img src="..." alt="...">
-                <div class="carousel-caption">
-                    ...
-                </div>
-            </div>
+            <figure class="item">
+                <img src="Images/124044lpr.jpg" />
+                <figcaption class="carousel-caption">
+                    Image 2
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/124044lpr.jpg" />
+                <figcaption class="carousel-caption">
+                    Image 3
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/124044lpr.jpg" />
+                <figcaption class="carousel-caption">
+                    Image 4
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/124044lpr.jpg" />
+                <figcaption class="carousel-caption">
+                    Image 5
+                </figcaption>
+            </figure>
             ...
         </section>
 
@@ -74,5 +95,8 @@
             </p>
         </div>
     </div>
+
+    <img src="Images/1402382329-cane.jpg" class="img-responsive"/>
+  
 
 </asp:Content>
