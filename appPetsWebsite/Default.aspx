@@ -23,31 +23,31 @@
         <!-- Wrapper for slides -->
         <section class="carousel-inner" role="listbox">
             <figure class="item active">
-                <img src="Images/the 1 pets.jpg" alt="Picture of a dog" title="Picture of a dog" />
+                <img src="Images/Pictures/aaaa.jpg" alt="Labrador and kitten together" title="Labrador and kitten together" />
                 <figcaption class="carousel-caption">
-                    Picture of a dog
+                    Labrador and kitten together
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/124044lpr.jpg" />
+                <img src="Images/Pictures/aaaone.jpg" />
                 <figcaption class="carousel-caption">
                     Image 2
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/124044lpr.jpg" />
+                <img src="Images/Pictures/aaathree.jpg" />
                 <figcaption class="carousel-caption">
                     Image 3
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/124044lpr.jpg" />
+                <img src="Images/Pictures/aath.jpg" />
                 <figcaption class="carousel-caption">
                     Image 4
                 </figcaption>
             </figure>
             <figure class="item">
-                <img src="Images/124044lpr.jpg" />
+                <img src="Images/Pictures/afa.jpg" />
                 <figcaption class="carousel-caption">
                     Image 5
                 </figcaption>
