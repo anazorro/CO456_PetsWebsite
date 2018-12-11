@@ -3,7 +3,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <header class="jumbotron">
-        <h1>About this website</h1>
+        <h1>About this PetStore</h1>
     </header>
 
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
