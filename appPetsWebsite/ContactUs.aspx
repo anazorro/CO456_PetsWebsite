@@ -12,7 +12,7 @@
 
                 <article class="panel panel-default">
                     <header class="panel-heading">
-                        <h2 class="panel-title">Contact Us By Post</h2>
+                        <h2 class="panel-title">Life Chat Support</h2>
                     </header>
                     <section class="panel-body">
                         <div class="row">
@@ -28,13 +28,12 @@
                                     Buckinghamshire,<br />
                                     HP21 7QG<br />
                                 </address>
-
                             </div>
-
-
                         </div>
-
-
+                        
+                        <p class="lead">Need help? We are here!</p>
+                        <p class="lead">Immediate and effective support!</p>
+                        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Start Chat &raquo;</a></p>
                     </section>
                 </article>
             </section>
