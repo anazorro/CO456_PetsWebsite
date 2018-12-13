@@ -14,27 +14,20 @@
                     <header class="panel-heading">
                         <h2 class="panel-title">Life Chat Support</h2>
                     </header>
+                    
                     <section class="panel-body">
                         <div class="row">
                             <div class="col-sm-6">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2466.598343320795!2d-0.8116601842187419!3d51.81349937968658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876f7a97167218f%3A0xc27980591e589d4c!2s59+Walton+St%2C+Aylesbury!5e0!3m2!1sen!2suk!4v1543933744042" width="275" height="200" frameborder="0" style="border: 0" allowfullscreen></iframe>
+                                //image in here of chat
                             </div>
-
                             <div class="col-sm-6">
-                                <address>
-                                    <h5>Address:</h5>
-                                    59 Walton Street,<br />
-                                    Aylesbury,<br />
-                                    Buckinghamshire,<br />
-                                    HP21 7QG<br />
-                                </address>
+                                <p class="lead">Need help? We are here!</p>
+                                <p class="lead">Immediate and effective support!</p>
+                                <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Start Chat &raquo;</a></p>
                             </div>
                         </div>
-                        
-                        <p class="lead">Need help? We are here!</p>
-                        <p class="lead">Immediate and effective support!</p>
-                        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Start Chat &raquo;</a></p>
                     </section>
+
                 </article>
             </section>
 
@@ -58,8 +51,7 @@
                             <label for="inputFullName3" class="col-sm-3 control-label">Full Name</label>
                             <div class="col-sm-9">
                                 <input class="form-control" id="inputFullName3"
-                                    placeholder="Janet Green" required pattern=".{3,}" title="Please enter more than 3 characters"
-                                    type="">
+                                    placeholder="Janet Green" required pattern=".{3,}" title="Please enter more than 3 characters" type="text">
                             </div>
                         </div>
                         <br />
@@ -119,54 +111,22 @@
                         </div>
                         <br />
                         <address>
-                            <h5>Address:</h5>
+                            <h3>Address:</h3>
                             59 Walton Street,<br />
                             Aylesbury,<br />
                             Buckinghamshire,<br />
                             HP21 7QG<br />
                         </address>
 
-                        <address> 
-                            <h5>Email:</h5> 
+                        <address>
+                            <strong>Email:</strong>
                             info@petsarehere.co.uk<br />
-                            <h5>Telephone:</h5>
-                             Head Office, Collete Green: 01296 306 651<br />
+                            <strong>Telephone:</strong>
+                            Head Office, Collete Green: 01296 306 651<br />
                         </address>
                     </section>
                 </article>
             </section>
-
-             <section class="col-lg-6">
-
-                <article class="panel panel-default">
-                    <header class="panel-heading">
-                        <h2 class="panel-title">Contact Us By Post</h2>
-                    </header>
-                    <section class="panel-body">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2466.598343320795!2d-0.8116601842187419!3d51.81349937968658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876f7a97167218f%3A0xc27980591e589d4c!2s59+Walton+St%2C+Aylesbury!5e0!3m2!1sen!2suk!4v1543933744042" width="275" height="200" frameborder="0" style="border: 0" allowfullscreen></iframe>
-                            </div>
-
-                            <div class="col-sm-6">
-                                <address>
-                                    <h5>Address:</h5>
-                                    59 Walton Street,<br />
-                                    Aylesbury,<br />
-                                    Buckinghamshire,<br />
-                                    HP21 7QG<br />
-                                </address>
-
-                            </div>
-
-
-                        </div>
-
-
-                    </section>
-                </article>
-            </section>
-
         </div>
     </main>
 </asp:Content>
