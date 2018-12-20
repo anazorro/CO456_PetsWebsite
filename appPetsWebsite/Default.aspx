@@ -9,16 +9,7 @@
         
     </header>
 
-    <section id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-            <li data-target="#carousel-example-generic" data-slide-to="0" class="active img-responsive"></li>
-            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-            <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-            <li data-target="#carousel-example-generic" data-slide-to="4"></li>
-        </ol>
-        
+    
      
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
         <article class="panel panel-default">
