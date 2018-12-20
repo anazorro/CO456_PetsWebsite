@@ -4,8 +4,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     
     <header class="jumbotron">
-        <h1>Pet Store</h1>
-        <h2>Meet our pets</h2>
+        <h1>Welcome To Our Pet Store</h1>
+        <h2>Meet our pets today!</h2>
         
     </header>
 
