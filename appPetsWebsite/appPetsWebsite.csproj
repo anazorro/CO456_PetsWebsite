@@ -136,7 +136,7 @@
     <Content Include="Images\About\our_story.png" />
     <Content Include="Images\About\three_cats.jpg" />
     <Content Include="Images\ContactUs\live_chat.png" />
-    <Content Include="Images\the_logo.png" />
+    <Content Include="Images\my_logo.png" />
     <Content Include="OtherPets.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
