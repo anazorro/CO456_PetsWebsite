@@ -3,7 +3,8 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <header class="jumbotron">
-        <h1>About this PetStore</h1>
+        <h1>The Beginning Of Our Pet Store</h1>
+
     </header>
 
     <section id="carousel-example-generic" class="carousel slide" data-ride="carousel">

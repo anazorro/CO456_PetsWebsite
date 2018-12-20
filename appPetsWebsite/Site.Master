@@ -52,7 +52,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <img src="Images/11111111smalllogo.png" />
+                    <img src="Images/the_logo.png" />
                     <a class="navbar-brand" runat="server" href="~/">Pet Store</a>
                 </div>
                 <div class="navbar-collapse collapse">
