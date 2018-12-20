@@ -6,47 +6,59 @@
         <h1>About this PetStore</h1>
     </header>
 
-    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-        <article class="panel panel-default">
-            <header class="panel-heading" role="tab" id="headingOne">
-                <h4 class="panel-title">
-                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Dogs
-                    </a>
-                </h4>
-            </header>
-            <section id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                <div class="panel-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                </div>
-            </section>
-        </article>
-        <article class="panel panel-default">
-            <header class="panel-heading" role="tab" id="headingTwo">
-                <h4 class="panel-title">
-                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Cats
-                    </a>
-                </h4>
-            </header>
-            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                <div class="panel-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                </div>
-            </div>
-        </article>
-        <div class="panel panel-default">
-            <div class="panel-heading" role="tab" id="headingThree">
-                <h4 class="panel-title">
-                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Other Pets
-                    </a>
-                </h4>
-            </div>
-            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                <div class="panel-body">
-                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- Wrapper for slides -->
+        <section class="carousel-inner" role="listbox">
+            <figure class="item active">
+                <img src="Images/About/our_story.png" alt="Some of our pets" title="Some of our pets" />
+                <figcaption class="carousel-caption">
+                    Some of our pets!
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/About/labrador.jpg" alt="One of our labradors" title="One of our labradors" />
+                <figcaption class="carousel-caption">
+                    One of our labradors!
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/About/three_cats.jpg" alt="Tommy, Cherry and Roxana" title="Tommy, Cherry and Roxana" />
+                <figcaption class="carousel-caption">
+                    Tommy, Cherry and Roxana!
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/About/green_bird.jpg" alt="This is Pepper" title="This is Pepper" />
+                <figcaption class="carousel-caption">
+                    This is Pepper!
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/About/pets_mixed.jpg" alt="Some more of our variety of pets" title="Some more of our variety of pets" />
+                <figcaption class="carousel-caption">
+                    Some more of our variety of pets!
+                </figcaption>
+            </figure>
+            <figure class="item">
+                <img src="Images/About/orange_fish.jpg" alt="Our Ozzy" title="Our Ozzy" />
+                <figcaption class="carousel-caption">
+                    Our Ozzy!
+                </figcaption>
+            </figure>
+            ...
+        </section>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </section>
+
+    
     
     
 </asp:Content>

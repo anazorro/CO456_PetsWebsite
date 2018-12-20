@@ -129,6 +129,12 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Images\About\green_bird.jpg" />
+    <Content Include="Images\About\orange_fish.jpg" />
+    <Content Include="Images\About\pets_mixed.jpg" />
+    <Content Include="Images\About\labrador.jpg" />
+    <Content Include="Images\About\our_story.png" />
+    <Content Include="Images\About\three_cats.jpg" />
     <Content Include="Images\ContactUs\live_chat.png" />
     <Content Include="OtherPets.aspx" />
     <Content Include="Scripts\bootstrap.js" />
@@ -239,7 +245,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Images\About\" />
     <Folder Include="Images\Cat\" />
     <Folder Include="Images\Dog\" />
     <Folder Include="Images\Home\" />
