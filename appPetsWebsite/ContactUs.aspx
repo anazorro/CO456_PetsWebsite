@@ -9,20 +9,19 @@
     <main>
         <div class="row">
             <section class="col-lg-6">
-
                 <article class="panel panel-default">
                     <header class="panel-heading">
                         <h2 class="panel-title">Life Chat Support</h2>
                     </header>
-                    
+                        
                     <section class="panel-body">
                         <div class="row">
                             <div class="col-sm-6">
-                                //image in here of chat
+                                <img src="Images/ContactUs/live_chat_support.png" alt="Chat with our team!" title="Chat with our team!"/>
                             </div>
                             <div class="col-sm-6">
-                                <p class="lead">Need help? We are here!</p>
-                                <p class="lead">Immediate and effective support!</p>
+                                <p class="lead">Need help? We are just one click away!</p>
+                                <p class="lead">Count with immediate and effective support directly from our teams.</p>
                                 <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Start Chat &raquo;</a></p>
                             </div>
                         </div>
@@ -32,7 +31,6 @@
             </section>
 
             <section class="col-lg-6">
-
                 <article class="panel panel-default">
                     <header class="panel-heading">
                         <h2 class="panel-title">Join Our Newsletter</h2>
@@ -77,17 +75,18 @@
             </section>
 
             <section class="col-lg-6">
-
                 <article class="panel panel-default">
                     <header class="panel-heading">
                         <h2 class="panel-title">General Enquiries</h2>
                     </header>
                     <section class="panel-body">
                         <address>
-                            One Microsoft Way<br />
-                            Redmond, WA 98052-6399<br />
+                            40 Bank St,<br />
+                            Canary Wharf,<br />
+                            London,<br />
+                            E14 5NR<br />
                             <abbr title="Phone">P:</abbr>
-                            425.555.0100
+                            020 3865 1787
                         </address>
 
                         <address>
@@ -99,7 +98,6 @@
             </section>
 
             <section class="col-lg-6">
-
                 <article class="panel panel-default">
                     <header class="panel-heading">
                         <h2 class="panel-title">Contact Information</h2>

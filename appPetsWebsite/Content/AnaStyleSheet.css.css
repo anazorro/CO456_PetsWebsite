@@ -15,6 +15,14 @@ body {
 }
 
 .navbar-inverse {
-    background-color: #0094ff;
-    border-color: #080808;
+    background-color: #8a55b4;
+    border-color: #ffffff;
+}
+
+nav li {
+    display: inline;
+    float: left;
+    width: 20%;
+    text-align: center;
+    border: thin solid #000;
 }

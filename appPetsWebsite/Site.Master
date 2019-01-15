@@ -59,8 +59,8 @@
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/Default">Home</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
-                        <li><a runat="server" href="~/Cat">Cat</a></li>
-                        <li><a runat="server" href="~/Dog">Dog</a></li>
+                        <li><a runat="server" href="~/Cats">Cats</a></li>
+                        <li><a runat="server" href="~/Dogs">Dogs</a></li>
                         <li><a runat="server" href="~/OtherPets">Other Pets</a></li>
                         <li><a runat="server" href="~/ContactUs">Contact Us</a></li>
                     </ul>
@@ -72,38 +72,56 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer class="row">
+                <p class="text-center"><img src="http://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="86" height="31" alt="HTML5 Powered with CSS3 / Styling, and Semantics" title="HTML5 Powered with CSS3 / Styling, and Semantics"></p>
+                <p class="text-center">&copy; <%: DateTime.Now.Year %> - Ana Zorro | BNU CO456 Web Development | CW1</p>
                 <section class="col-lg-3">
+                    <p>Customer Services</p>
+                    <p>Opening Times:<p/>
+                    <ul>
+                        <li>Monday to Saturday: 09:00 - 18:00</li>
+                        <li>Sundays: 09:00 - 16:00</li>
+                        <li>Bank Holidays: Closed</li>
+                    </ul>
+                </section>
+
+                <section class="col-lg-3">
+                    <p>Help</p>
                     <p>
-                    &copy; <%: DateTime.Now.Year %> - Ana Zorro |
-                    BNU CO456 Web Development |
-                    CW1
-                </p>
+                        <ul>
+                            <li><a runat="server" href="~/FAQ">FAQ</a></li>
+                            <li><a runat="server" href="~/GiftVouchers">Gift Vouchers</a></li>
+                            <li><a runat="server" href="~/Terms">Terms</a></li>
+                            <li><a runat="server" href="~/Privacy">Privacy</a></li>
+                            <li><a runat="server" href="~/Cookie Policy">Cookie Policy</a></li>
+                        </ul>
+                    </p>
 
                 </section>
 
                 <section class="col-lg-3">
+                    <p>Find Us</p>
                     <p>
-                    &copy; <%: DateTime.Now.Year %> - Ana Zorro |
-                    BNU CO456 Web Development |
-                    CW1
-                </p>
-
-                </section>
-
-                <section class="col-lg-3">
-                    <p>
-                    
+                        <ul>
+                            <li><a runat="server" href="~/Birmingham">Birmingham</a></li>
+                            <li><a runat="server" href="~/Cornwall">Cornwall</a></li>
+                            <li><a runat="server" href="~/London">London</a></li>
+                            <li><a runat="server" href="~/Manchester">Manchester</a></li>
+                            <li><a runat="server" href="~/NewCastle">New Castle</a></li>
+                        </ul>
                     </p>
                 </section>
 
                 <section class="col-lg-3">
+                    <p>Our Company</p>
                     <p>
-                    
+                        <ul>
+                            <li><a runat="server" href="~/MoreAboutUs">More About Us</a></li>
+                            <li><a runat="server" href="~/WhoWeAre">Who We Are</a></li>
+                            <li><a runat="server" href="~/OurHistory">Our History</a></li>
+                            <li><a runat="server" href="~/Careers">Careers</a></li>
+                        </ul>
                     </p>
                 </section>
-
-                
-
             </footer>
         </div>
 

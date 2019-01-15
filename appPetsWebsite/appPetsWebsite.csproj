@@ -106,7 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
-    <Content Include="Cat.aspx" />
+    <Content Include="Cats.aspx" />
     <Content Include="ContactUs.aspx" />
     <Content Include="Content\AnaStyleSheet.css.css" />
     <Content Include="Content\bootstrap-theme.css" />
@@ -116,7 +116,7 @@
     <Content Include="Content\PetStyleSheet.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
-    <Content Include="Dog.aspx" />
+    <Content Include="Dogs.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -135,7 +135,7 @@
     <Content Include="Images\About\labrador.jpg" />
     <Content Include="Images\About\our_story.png" />
     <Content Include="Images\About\three_cats.jpg" />
-    <Content Include="Images\ContactUs\live_chat.png" />
+    <Content Include="Images\ContactUs\live_chat_support.png" />
     <Content Include="Images\my_logo.png" />
     <Content Include="OtherPets.aspx" />
     <Content Include="Scripts\bootstrap.js" />
@@ -183,12 +183,12 @@
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Cat.aspx.cs">
-      <DependentUpon>Cat.aspx</DependentUpon>
+    <Compile Include="Cats.aspx.cs">
+      <DependentUpon>Cats.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Cat.aspx.designer.cs">
-      <DependentUpon>Cat.aspx</DependentUpon>
+    <Compile Include="Cats.aspx.designer.cs">
+      <DependentUpon>Cats.aspx</DependentUpon>
     </Compile>
     <Compile Include="ContactUs.aspx.cs">
       <DependentUpon>ContactUs.aspx</DependentUpon>
@@ -204,12 +204,12 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Dog.aspx.cs">
-      <DependentUpon>Dog.aspx</DependentUpon>
+    <Compile Include="Dogs.aspx.cs">
+      <DependentUpon>Dogs.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Dog.aspx.designer.cs">
-      <DependentUpon>Dog.aspx</DependentUpon>
+    <Compile Include="Dogs.aspx.designer.cs">
+      <DependentUpon>Dogs.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -246,8 +246,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Images\Cat\" />
-    <Folder Include="Images\Dog\" />
+    <Folder Include="Images\Cats\" />
+    <Folder Include="Images\Dogs\" />
     <Folder Include="Images\Home\" />
     <Folder Include="Images\OtherPets\" />
   </ItemGroup>
