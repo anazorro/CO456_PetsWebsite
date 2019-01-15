@@ -6,11 +6,8 @@
     <header class="jumbotron">
         <h1>Welcome To Our Pet Store</h1>
         <h2>Meet our pets today!</h2>
-        
     </header>
 
-    
-     
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
         <article class="panel panel-default">
             <header class="panel-heading" role="tab" id="headingOne">

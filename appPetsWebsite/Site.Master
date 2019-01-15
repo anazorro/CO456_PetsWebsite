@@ -13,7 +13,7 @@
     </asp:PlaceHolder>
 
     <webopt:bundlereference runat="server" path="~/Content/css" />
-    <link href="Content/PetStyleSheet.css" rel="stylesheet" />
+    <link href="Content/AnaStyleSheet.css.css" rel="stylesheet" />
 
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <script src="Scripts/myScripts.js"></script>
@@ -52,7 +52,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <img src="Images/my_logo.png" />
+                    <img src="Images/my_logo.png" id="logo"/>
                     <a class="navbar-brand" runat="server" href="~/">Pet Store</a>
                 </div>
                 <div class="navbar-collapse collapse">
@@ -71,12 +71,38 @@
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
-            <footer>
-                <p class=" ">
+            <footer class="row">
+                <section class="col-lg-3">
+                    <p>
                     &copy; <%: DateTime.Now.Year %> - Ana Zorro |
                     BNU CO456 Web Development |
                     CW1
                 </p>
+
+                </section>
+
+                <section class="col-lg-3">
+                    <p>
+                    &copy; <%: DateTime.Now.Year %> - Ana Zorro |
+                    BNU CO456 Web Development |
+                    CW1
+                </p>
+
+                </section>
+
+                <section class="col-lg-3">
+                    <p>
+                    
+                    </p>
+                </section>
+
+                <section class="col-lg-3">
+                    <p>
+                    
+                    </p>
+                </section>
+
+                
 
             </footer>
         </div>
