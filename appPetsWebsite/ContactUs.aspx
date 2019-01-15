@@ -14,7 +14,6 @@
                         <h2 class="panel-title">Join Our Newsletter</h2>
                     </header>
                     <fieldset class="panel-body">
-
                         <div class="form-group">
                             <label for="inputEmail3" class="col-sm-3 control-label">Email</label>
                             <div class="col-sm-9">
@@ -47,11 +46,9 @@
                                 <button type="submit" class="btn btn-default">Submit</button>
                             </div>
                         </div>
-
                     </fieldset>
                 </article>
             </section>
-
             <section class="col-lg-6">
                 <article class="panel panel-default">
                     <header class="panel-heading">
@@ -59,7 +56,6 @@
                     </header>
                     <section class="panel-body">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                        
                         <address>
                             40 Bank St,<br />
                             Canary Wharf,<br />
@@ -68,22 +64,18 @@
                             <abbr title="Phone">P:</abbr>
                             020 3865 1787
                         </address>
-
                         <address>
                             <strong>Support:</strong>   <a href="mailto:Support@petstore.com">Support@petstore.com</a><br />
                             <strong>Marketing:</strong> <a href="mailto:Marketing@petstore.com">Marketing@petstore.com</a>
                         </address>
                     </section>
-                    
                 </article>
             </section>
-
             <section class="col-lg-6">
                 <article class="panel panel-default">
                     <header class="panel-heading">
                         <h2 class="panel-title">Life Chat Support</h2>
                     </header>
-                        
                     <section class="panel-body">
                         <div class="row">
                             <div class="col-sm-6">
@@ -96,12 +88,8 @@
                             </div>
                         </div>
                     </section>
-
                 </article>
             </section>
-
-            
-
             <section class="col-lg-6">
                 <article class="panel panel-default">
                     <header class="panel-heading">
@@ -110,7 +98,6 @@
                     <section class="panel-body">
                         <div>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2466.598343320795!2d-0.8116601842187419!3d51.81349937968658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876f7a97167218f%3A0xc27980591e589d4c!2s59+Walton+St%2C+Aylesbury!5e0!3m2!1sen!2suk!4v1543933744042" width="540" height="350" frameborder="0" style="border: 0" allowfullscreen></iframe>
-
                         </div>
                         <br />
                         <address>
@@ -120,7 +107,6 @@
                             Buckinghamshire,<br />
                             HP21 7QG<br />
                         </address>
-
                         <address>
                             <strong>Email:</strong>
                             info@petsarehere.co.uk<br />
