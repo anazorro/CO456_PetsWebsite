@@ -15,8 +15,10 @@ body {
 }
 
 .navbar-inverse {
+    font-weight: bold;
     background-color: #8a55b4;
     border-color: #ffffff;
+    color: black;
 }
 
 nav li {
@@ -25,4 +27,29 @@ nav li {
     width: 20%;
     text-align: center;
     border: thin solid #000;
+}
+
+.nav navbar-nav {
+    color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
