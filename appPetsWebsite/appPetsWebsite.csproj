@@ -136,6 +136,7 @@
     <Content Include="Images\About\our_story.png" />
     <Content Include="Images\About\three_cats.jpg" />
     <Content Include="Images\ContactUs\live_chat_support.png" />
+    <Content Include="Images\Home\sales.PNG" />
     <Content Include="Images\my_logo.png" />
     <Content Include="OtherPets.aspx" />
     <Content Include="Scripts\bootstrap.js" />
@@ -248,7 +249,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Images\Cats\" />
     <Folder Include="Images\Dogs\" />
-    <Folder Include="Images\Home\" />
     <Folder Include="Images\OtherPets\" />
   </ItemGroup>
   <ItemGroup>
