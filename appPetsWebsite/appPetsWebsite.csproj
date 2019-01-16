@@ -128,6 +128,14 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Less\StyleSheet1.css">
+      <DependentUpon>StyleSheet1.less</DependentUpon>
+    </Content>
+    <Content Include="Less\StyleSheet1.less" />
+    <None Include="compilerconfig.json" />
+    <None Include="compilerconfig.json.defaults">
+      <DependentUpon>compilerconfig.json</DependentUpon>
+    </None>
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Images\About\green_bird.jpg" />
     <Content Include="Images\About\orange_fish.jpg" />
@@ -138,6 +146,9 @@
     <Content Include="Images\ContactUs\live_chat_support.png" />
     <Content Include="Images\Home\sales.PNG" />
     <Content Include="Images\my_logo.png" />
+    <Content Include="Less\StyleSheet1.min.css">
+      <DependentUpon>StyleSheet1.css</DependentUpon>
+    </Content>
     <Content Include="OtherPets.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

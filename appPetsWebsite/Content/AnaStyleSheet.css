@@ -53,3 +53,8 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+.navbar-text
+{
+    color:black;
+}
