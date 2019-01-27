@@ -1,19 +1,22 @@
-
+/* Position and size of the logo */
 #logo {
     height: 40px;
     margin: 5px;
     float: left;
 }
 
+/* Address font size and weight */
 .az-address {
     font-size: 2.0em;
     font-weight: 200;
 }
 
+/* Add a background color to the body */
 body {
     background-color: #57c488;
 }
 
+/* Top navigation bar section */
 .navbar-inverse {
     font-weight: bold;
     background-color: #8a55b4;
@@ -23,8 +26,6 @@ body {
 
 nav li {
     display: inline;
-    float: left;
-    width: 20%;
     text-align: center;
     border: thin solid #000;
 }
@@ -33,11 +34,23 @@ nav li {
     color: black;
 }
 
+/* Style the search box inside the navigation bar */
+.navbar-inverse input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+/* Customise headings  */
 h1, h2, h3, h4, h5, h6 {
     font-family: Impact, Charcoal, sans-serif;
     text-align: center;
 }
 
+/* Table section */
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -45,7 +58,7 @@ table {
 }
 
 td, th {
-    border: 1px solid #dddddd;
+    border: 15px solid #dddddd;
     text-align: left;
     padding: 8px;
 }

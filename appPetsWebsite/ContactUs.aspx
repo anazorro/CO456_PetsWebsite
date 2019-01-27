@@ -2,50 +2,51 @@
     CodeBehind="ContactUs.aspx.cs" Inherits="appPetsWebsite.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <section
-        class="jumbotron">
+    <!-- Bootstrap jumbotron will create a big box for calling extra attention to the title of each page  -->
+    <header class="jumbotron">
         <h1>Contact Us</h1>
-    </section>
+        <h2>Our lines are open everyday from 7am - 7pm</h2>
+    </header>
     <main>
-        <div class="row">
+        <section class="row">
             <section class="col-lg-6">
                 <article class="panel panel-default">
                     <header class="panel-heading">
                         <h2 class="panel-title">Join Our Newsletter</h2>
                     </header>
                     <fieldset class="panel-body">
-                        <div class="form-group">
+                        <section class="form-group">
                             <label for="inputEmail3" class="col-sm-3 control-label">Email</label>
                             <div class="col-sm-9">
                                 <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
                             </div>
-                        </div>
+                        </section>
                         <br />
                         <br />
-                        <div class="form-group">
+                        <section class="form-group">
                             <label for="inputFullName3" class="col-sm-3 control-label">Full Name</label>
                             <div class="col-sm-9">
                                 <input class="form-control" id="inputFullName3"
                                     placeholder="Janet Green" required pattern=".{3,}" title="Please enter more than 3 characters" type="text">
                             </div>
-                        </div>
+                        </section>
                         <br />
                         <br />
-                        <div class="form-group">
-                            <div class="col-sm-offset-3 col-sm-9">
+                        <section class="form-group">
+                            <section class="col-sm-offset-3 col-sm-9">
                                 <div class="checkbox">
                                     <label>
                                         <input type="checkbox">
                                         Remember me
                                     </label>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="form-group">
+                            </section>
+                        </section>
+                        <section class="form-group">
                             <div class="col-sm-offset-3 col-sm-9">
                                 <button type="submit" class="btn btn-default">Submit</button>
                             </div>
-                        </div>
+                        </section>
                     </fieldset>
                 </article>
             </section>
@@ -77,16 +78,16 @@
                         <h2 class="panel-title">Life Chat Support</h2>
                     </header>
                     <section class="panel-body">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <img src="Images/ContactUs/live_chat_support.png" alt="Chat with our team!" title="Chat with our team!"/>
-                            </div>
-                            <div class="col-sm-6">
+                        <section class="row">
+                            <figure class="col-sm-6">
+                                <img src="Images/ContactUs/live_chat_support.png" alt="Chat with our team!" title="Chat with our team!" />
+                            </figure>
+                            <section class="col-sm-6">
                                 <p class="lead">Need help? We are just one click away!</p>
                                 <p class="lead">Count with immediate and effective support directly from our teams.</p>
                                 <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Start Chat &raquo;</a></p>
-                            </div>
-                        </div>
+                            </section>
+                        </section>
                     </section>
                 </article>
             </section>
@@ -116,6 +117,6 @@
                     </section>
                 </article>
             </section>
-        </div>
+        </section>
     </main>
 </asp:Content>
