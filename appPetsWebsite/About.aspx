@@ -4,9 +4,14 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <!-- Bootstrap jumbotron will create a big box for calling extra attention to the title of each page  -->
     <header class="jumbotron">
-        <h1>The Growth Of Our Pet Store</h1>
-        <h2>Business cronology</h2>
+        <h1>
+            The Growth Of Our Pet Store
+        </h1>
+        <h2>
+            Business cronology
+        </h2>
     </header>
+
     <!-- Carousel -->
     <main>
         <section id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -23,32 +28,38 @@
             <section class="carousel-inner" role="listbox">
                 <figure class="item active">
                     <img src="Images/About/our_story.png" alt="Some of our pets" title="Some of our pets" />
-                    <figcaption class="carousel-caption">Some of our pets!
+                    <figcaption class="carousel-caption">
+                        Some of our pets!
                     </figcaption>
                 </figure>
                 <figure class="item">
                     <img src="Images/About/labrador.jpg" alt="One of our labradors" title="One of our labradors" />
-                    <figcaption class="carousel-caption">One of our labradors!
+                    <figcaption class="carousel-caption">
+                        One of our labradors!
                     </figcaption>
                 </figure>
                 <figure class="item">
                     <img src="Images/About/three_cats.jpg" alt="Tommy, Cherry and Roxana" title="Tommy, Cherry and Roxana" />
-                    <figcaption class="carousel-caption">Tommy, Cherry and Roxana!
+                    <figcaption class="carousel-caption">
+                        Tommy, Cherry and Roxana!
                     </figcaption>
                 </figure>
                 <figure class="item">
                     <img src="Images/About/green_bird.jpg" alt="This is Pepper" title="This is Pepper" />
-                    <figcaption class="carousel-caption">This is Pepper!
+                    <figcaption class="carousel-caption">
+                        This is Pepper!
                     </figcaption>
                 </figure>
                 <figure class="item">
                     <img src="Images/About/pets_mixed.jpg" alt="Some more of our variety of pets" title="Some more of our variety of pets" />
-                    <figcaption class="carousel-caption">Some more of our variety of pets!
+                    <figcaption class="carousel-caption">
+                        Some more of our variety of pets!
                     </figcaption>
                 </figure>
                 <figure class="item">
                     <img src="Images/About/orange_fish.jpg" alt="Our Ozzy" title="Our Ozzy" />
-                    <figcaption class="carousel-caption">Our Ozzy!
+                    <figcaption class="carousel-caption">
+                        Our Ozzy!
                     </figcaption>
                 </figure>
             </section>
@@ -66,25 +77,25 @@
         <!-- Three Columns with text -->
         <section>
             <section class="col-lg-4">
-                <div class="panel panel-default">
-                    <div class="panel-body">
+                <section class="panel panel-default">
+                    <p class="panel-body">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
-                    </div>
-                </div>
+                    </p>
+                </section>
             </section>
             <section class="col-lg-4">
-                <div class="panel panel-default">
-                    <div class="panel-body">
+                <section class="panel panel-default">
+                    <p class="panel-body">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
-                    </div>
-                </div>
+                    </p>
+                </section>
             </section>
             <section class="col-lg-4">
-                <div class="panel panel-default">
-                    <div class="panel-body">
+                <section class="panel panel-default">
+                    <p class="panel-body">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
-                    </div>
-                </div>
+                    </p>
+                </section>
             </section>
         </section>
     </main>

@@ -18,6 +18,7 @@
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <script src="Scripts/myScripts.js"></script>
 </head>
+    
 <body>
     <form runat="server" name="myForm">
         <asp:ScriptManager runat="server">
@@ -64,6 +65,7 @@
                 </section>
             </section>
         </header>
+
         <section class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
@@ -117,5 +119,6 @@
         </section>
     </form>
     <script src="Scripts/myScripts.js"></script>
+    <script src="//static.miniclipcdn.com/js/game-embed.js"></script>
 </body>
 </html>

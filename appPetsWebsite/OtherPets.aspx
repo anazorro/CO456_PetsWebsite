@@ -2,9 +2,14 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <!-- Bootstrap jumbotron will create a big box for calling extra attention to the title of each page  -->
     <header class="jumbotron">
-        <h1>Other Pets</h1>
-        <h2>Adoption Table</h2>
+        <h1>
+            Other Pets
+        </h1>
+        <h2>
+            Adoption Table
+        </h2>
     </header>
+
     <!-- Stripped rows table -->
     <table>
         <tr>
@@ -23,8 +28,11 @@
                     <li>Using Lorem Ipsum as opposed to using 'Content here, content here'. </li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="a" title="a"/>
+                </a>
+            </td>
             <td>£25.00</td>
         </tr>
         <tr>
@@ -38,8 +46,11 @@
                     <li>There are many variations of passages of Lorem Ipsum available.</li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="b" title="b"/>
+                </a>
+            </td>
             <td>£15.00</td>
         </tr>
         <tr>
@@ -53,8 +64,11 @@
                     <li>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. </li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="c" title="c"/>
+                </a>
+            </td>
             <td>£65.00</td>
         </tr>
         <tr>
@@ -68,8 +82,11 @@
                     <li>Et harum quidem rerum facilis est et expedita distinctio. </li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="d" title="d"/>
+                </a>
+            </td>
             <td>£150.00</td>
         </tr>
         <tr>
@@ -83,8 +100,11 @@
                     <li>In culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="e" title="e"/>
+                </a>
+            </td>
             <td>£10.00</td>
         </tr>
         <tr>
@@ -98,8 +118,11 @@
                     <li>Hed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="f" title="f"/>
+                </a>
+            </td>
             <td>£65.00</td>
         </tr>
         <tr>
@@ -113,8 +136,11 @@
                     <li>There are many variations of passages of Lorem Ipsum available.</li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="g" title="g"/>
+                </a>
+            </td>
             <td>£45.00</td>
         </tr>
         <tr>
@@ -128,8 +154,11 @@
                     <li>Health: There are many variations of passages of Lorem Ipsum available.</li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="h" title="h"/>
+                </a>
+            </td>
             <td>£50.00</td>
         </tr>
         <tr>
@@ -143,8 +172,11 @@
                     <li>Using Lorem Ipsum as opposed to using 'Content here, content here'. </li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="i" title="i"/>
+                </a>
+            </td>
             <td>£17.00</td>
         </tr>
         <tr>
@@ -158,8 +190,11 @@
                     <li>There are many variations of passages of Lorem Ipsum available.</li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="j" title="j"/>
+                </a>
+            </td>
             <td>£8.00</td>
         </tr>
         <tr>
@@ -173,8 +208,11 @@
                     <li>There are many variations of passages of Lorem Ipsum available.</li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="k" title="k"/>
+                </a>
+            </td>
             <td>£20.00</td>
         </tr>
         <tr>
@@ -188,8 +226,11 @@
                     <li>Using Lorem Ipsum as opposed to using 'Content here, content here'. </li>
                 </ol>
             </td>
-            <td><a href="http://placeholder.com">
-                <img src="http://via.placeholder.com/100" /></a></td>
+            <td>
+                <a href="http://placeholder.com">
+                    <img src="http://via.placeholder.com/100" alt="l" title="l"/>
+                </a>
+            </td>
             <td>£22.00</td>
         </tr>
     </table>
