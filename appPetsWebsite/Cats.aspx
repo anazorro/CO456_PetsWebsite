@@ -11,9 +11,7 @@
         <section class="container-fluid">
             <section class="row">
                 <article class="col-sm-6">
-                    <h3>
-                        Lorem ipsum
-                    </h3>
+                    <h3>Lorem ipsum</h3>
                     <p>
                         There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. 
                     </p>
@@ -28,9 +26,7 @@
                     </p>
                 </article>
                 <article class="col-sm-6">
-                    <h3>
-                        The standard Lorem Ipsum
-                    </h3>
+                    <h3>The standard Lorem Ipsum</h3>
                     <!-- Youtube video 4:3 aspect ratio -->
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/EWCeD8X3IZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </article>
@@ -40,9 +36,7 @@
                         <section class="col-lg-6">
                             <article class="panel panel-default">
                                 <header class="panel-heading">
-                                    <h2 class="panel-title">
-                                        Meet Simba
-                                    </h2>
+                                    <h2 class="panel-title">Meet Simba</h2>
                                 </header>
                                 <section class="panel-body">
                                     <section class="row">
@@ -67,9 +61,7 @@
                         <section class="col-lg-6">
                             <article class="panel panel-default">
                                 <header class="panel-heading">
-                                    <h2 class="panel-title">
-                                        Meet Max
-                                    </h2>
+                                    <h2 class="panel-title">Meet Max</h2>
                                 </header>
                                 <section class="panel-body">
                                     <section class="row">
@@ -94,9 +86,7 @@
                         <section class="col-lg-6">
                             <article class="panel panel-default">
                                 <header class="panel-heading">
-                                    <h2 class="panel-title">
-                                        Meet Sam
-                                    </h2>
+                                    <h2 class="panel-title">Meet Sam</h2>
                                 </header>
                                 <section class="panel-body">
                                     <section class="row">
@@ -148,9 +138,7 @@
                         <section class="col-lg-6">
                             <article class="panel panel-default">
                                 <header class="panel-heading">
-                                    <h2 class="panel-title">
-                                        Meet Gato
-                                    </h2>
+                                    <h2 class="panel-title">Meet Gato</h2>
                                 </header>
                                 <section class="panel-body">
                                     <section class="row">
@@ -202,9 +190,7 @@
                         <section class="col-lg-6">
                             <article class="panel panel-default">
                                 <header class="panel-heading">
-                                    <h2 class="panel-title">
-                                        Meet Tiger
-                                    </h2>
+                                    <h2 class="panel-title">Meet Tiger</h2>
                                 </header>
                                 <section class="panel-body">
                                     <section class="row">
@@ -229,9 +215,7 @@
                         <section class="col-lg-6">
                             <article class="panel panel-default">
                                 <header class="panel-heading">
-                                    <h2 class="panel-title">
-                                        Meet Ginger
-                                    </h2>
+                                    <h2 class="panel-title">Meet Ginger</h2>
                                 </header>
                                 <section class="panel-body">
                                     <section class="row">

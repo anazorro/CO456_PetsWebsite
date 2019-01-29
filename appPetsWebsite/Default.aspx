@@ -4,29 +4,21 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <!-- Bootstrap jumbotron will create a big box for calling extra attention to the title of each page  -->
     <header class="jumbotron">
-        <h1>
-            Welcome To Zorro's Pet Store
-        </h1>
-        <h2>
-            Meet our pets today!
-        </h2>
+        <h1>Welcome To Zorro's Pet Store</h1>
+        <h2>Meet our pets today!</h2>
     </header>
 
     <!-- This is where the main content is -->  
     <main>
         <!-- This section composed by text and an image -->
         <section>
-            <h3>
-                Find out today more about our discounts!
-            </h3>
+            <h3>Find out today more about our discounts!</h3>
             <br />
             <img src="Images/Home/sales.PNG" alt="sales" title="sales" /><br />
         </section>
         <!-- Section composed by an accordion which allows to toggle between hiding and showing large amount of content -->
         <section class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            <h3>
-                Read below how you can save up to 50%.
-            </h3>
+            <h3>Read below how you can save up to 50%.</h3>
             <br />
             <article class="panel panel-default">
                 <header class="panel-heading" role="tab" id="headingOne">

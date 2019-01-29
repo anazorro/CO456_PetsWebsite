@@ -1,42 +1,76 @@
-﻿
-* {
-    padding: 0;
-    margin: 0;
-    border: none;
-}
-
-p {
-    /*background-color: #990000;
-	padding: 50px;
-	margin: 100px;
-	border:25px solid #000000;*/
-}
-
-.container {
-    width: 960px;
-    margin: auto auto;
-    background-color: #900005;
-}
-
-h1, h2 {
-    font-family: 'Comic Sans MS'
-}
-
-h1 {
-    font-size: 4.0em;
-}
-
-h2 {
-    font-size: 1.5em;
-}
-
-header img {
+﻿/* By Ana Zorro */
+/* FD Computing 2018 */
+/* CO456 Web Development */
+/**/
+/* Position and size of the logo */
+#logo {
+    height: 40px;
     margin: 5px;
-    margin-left: 20px;
+    float: left;
 }
 
-header h1 {
-    margin-top: 20px;
-    margin-left: 20px;
+/* Address font size and weight */
+.az-address {
+    font-size: 2.0em;
+    font-weight: 200;
 }
 
+/* Add a background color to the body */
+body {
+    background-color: #57c488;
+}
+
+/* Top navigation bar section */
+.navbar-inverse {
+    font-weight: bold;
+    background-color: #8a55b4;
+    border-color: #ffffff;
+    color: black;
+}
+
+nav li {
+    display: inline;
+    text-align: center;
+    border: thin solid #000;
+}
+
+.nav navbar-nav {
+    color: black;
+}
+
+/* Style the search box inside the navigation bar */
+.navbar-inverse input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+/* Customise headings  */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+}
+
+/* Table section */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 15px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.navbar-text {
+    color: black;
+}

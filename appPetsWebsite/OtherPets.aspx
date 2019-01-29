@@ -2,12 +2,8 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <!-- Bootstrap jumbotron will create a big box for calling extra attention to the title of each page  -->
     <header class="jumbotron">
-        <h1>
-            Other Pets
-        </h1>
-        <h2>
-            Adoption Table
-        </h2>
+        <h1>Other Pets</h1>
+        <h2>Adoption Table</h2>
     </header>
 
     <!-- Stripped rows table -->
@@ -18,7 +14,7 @@
             <th>Price</th>
         </tr>
         <tr>
-            <td>
+            <td style="width:50%">
                 <ol>
                     <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </li>
                     <li>Lorem Ipsum has been the industry's dummy text ever since the 1500s.</li>
@@ -28,7 +24,7 @@
                     <li>Using Lorem Ipsum as opposed to using 'Content here, content here'. </li>
                 </ol>
             </td>
-            <td>
+            <td style="center-block">
                 <a href="http://placeholder.com">
                     <img src="http://via.placeholder.com/100" alt="a" title="a"/>
                 </a>

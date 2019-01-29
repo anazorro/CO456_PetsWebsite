@@ -3,21 +3,15 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <!-- Bootstrap jumbotron will create a big box for calling extra attention to the title of each page  -->
     <header class="jumbotron">
-        <h1>
-            Dogs
-        </h1>
-        <h2>
-            Also puppies!
-        </h2>
+        <h1>Dogs</h1>
+        <h2>Also puppies!</h2>
     </header>
 
     <main>
         <section class="container-fluid">
             <section class="row">
                 <article class="col-sm-5">
-                    <h3>
-                        Lorem ipsum
-                    </h3>
+                    <h3>Lorem ipsum</h3>
                     <p>
                         There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. 
                     </p>
@@ -38,9 +32,7 @@
                     </p>
                 </article>
                 <article class="col-sm-7">
-                    <h3>
-                        The standard Lorem Ipsum
-                    </h3>
+                    <h3>The standard Lorem Ipsum</h3>
                     <!-- Youtube video 4:3 aspect ratio -->
                     <section class="miniclip-game-embed" data-game-name="slime-laboratory-2" data-theme="5" data-width="640" data-height="480" data-language="en">
                         <a href="https://www.miniclip.com/games/slime-laboratory-2/">Play Slime Laboratory 2</a>
@@ -52,9 +44,7 @@
                 <section class="col-lg-6">
                     <article class="panel panel-default">
                         <header class="panel-heading">
-                            <h2 class="panel-title">
-                                Meet Duke
-                            </h2>
+                            <h2 class="panel-title">Meet Duke</h2>
                         </header>
                         <section class="panel-body">
                             <section class="row">
@@ -79,9 +69,7 @@
                 <section class="col-lg-6">
                     <article class="panel panel-default">
                         <header class="panel-heading">
-                            <h2 class="panel-title">
-                                Meet Molly
-                            </h2>
+                            <h2 class="panel-title">Meet Molly</h2>
                         </header>
                         <section class="panel-body">
                             <section class="row">
@@ -106,9 +94,7 @@
                 <section class="col-lg-6">
                     <article class="panel panel-default">
                         <header class="panel-heading">
-                            <h2 class="panel-title">
-                                Meet Cooper
-                            </h2>
+                            <h2 class="panel-title">Meet Cooper</h2>
                         </header>
                         <section class="panel-body">
                             <section class="row">
@@ -133,9 +119,7 @@
                 <section class="col-lg-6">
                     <article class="panel panel-default">
                         <header class="panel-heading">
-                            <h2 class="panel-title">
-                                Meet Lola
-                            </h2>
+                            <h2 class="panel-title">Meet Lola</h2>
                         </header>
                         <section class="panel-body">
                             <section class="row">
@@ -160,9 +144,7 @@
                 <section class="col-lg-6">
                     <article class="panel panel-default">
                         <header class="panel-heading">
-                            <h2 class="panel-title">
-                                Meet Luna
-                            </h2>
+                            <h2 class="panel-title">Meet Luna</h2>
                         </header>
                         <section class="panel-body">
                             <section class="row">
@@ -187,9 +169,7 @@
                 <section class="col-lg-6">
                     <article class="panel panel-default">
                         <header class="panel-heading">
-                            <h2 class="panel-title">
-                                Meet Bear
-                            </h2>
+                            <h2 class="panel-title">Meet Bear</h2>
                         </header>
                         <section class="panel-body">
                             <section class="row">
@@ -214,9 +194,7 @@
                 <section class="col-lg-6">
                     <article class="panel panel-default">
                         <header class="panel-heading">
-                            <h2 class="panel-title">
-                                Meet Tucker
-                            </h2>
+                            <h2 class="panel-title">Meet Tucker</h2>
                         </header>
                         <section class="panel-body">
                             <section class="row">
@@ -241,9 +219,7 @@
                 <section class="col-lg-6">
                     <article class="panel panel-default">
                         <header class="panel-heading">
-                            <h2 class="panel-title">
-                                Meet Rocky
-                            </h2>
+                            <h2 class="panel-title">Meet Rocky</h2>
                         </header>
                         <section class="panel-body">
                             <section class="row">

@@ -1,5 +1,7 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="appPetsWebsite.SiteMaster" %>
-
+<%-- By Ana Zorro--%>
+<%-- FD Computing 2018--%>
+<%-- CO456 Web Development--%>
 <!DOCTYPE html>
 
 <html lang="en">
@@ -14,8 +16,9 @@
 
     <webopt:BundleReference runat="server" Path="~/Content/css" />
     <link href="Content/AnaStyleSheet.css.css" rel="stylesheet" />
-
+    <link href="Content/PetStyleSheet.css" rel="stylesheet" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
     <script src="Scripts/myScripts.js"></script>
 </head>
     

@@ -4,12 +4,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <!-- Bootstrap jumbotron will create a big box for calling extra attention to the title of each page  -->
     <header class="jumbotron">
-        <h1>
-            The Growth Of Our Pet Store
-        </h1>
-        <h2>
-            Business cronology
-        </h2>
+        <h1>The Growth Of Our Pet Store</h1>
+        <h2>Business cronology</h2>
     </header>
 
     <!-- Carousel -->
