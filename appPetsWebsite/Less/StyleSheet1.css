@@ -1,0 +1,9 @@
+﻿/* Example Less File */
+/* Example of Variables */
+/* two of the variables are used */
+.some-class {
+  background-color: blue;
+}
+.red-class {
+  background-color: red;
+}
